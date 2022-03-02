@@ -8,4 +8,4 @@
 Nik817/Nik817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-docker run -it --rm alpine/bombardier -c 1000 -d 3600s -l https://radiomayak.ru/ 
+
